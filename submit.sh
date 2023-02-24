@@ -1,7 +1,7 @@
 #!/bin/bash
 function get_emoji() {
 	emoji_list=("😘" "🎉" "🎂" "🥳" "🎈" "🎊" "🎁" "🧁" "🥂" "🍰" "🪅" "🎆" "🤩" "🌼" "🌷" "🍨" "💗")
-	num=$(date '+%S')
+	num=$(date '+%-S')
 	len=${#emoji_list[@]}
 	index=$((num % len))
 	echo ${emoji_list[$index]}
