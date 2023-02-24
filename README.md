@@ -4,6 +4,6 @@
 
 [算法](algorithm)
 
-[操作系统][os]
+[操作系统](os)
 
 [Linux](linux)
