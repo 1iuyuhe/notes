@@ -35,8 +35,14 @@
 - [C++ Concurrency](cpp/C++_Concurrency.md)
 - ……
 
+## [MIT License](https://github.com/1iuyuhe/notes/blob/master/LICENSE)
 
 
-[![count](https://count.getloli.com/get/@1iuyuhe.github.notes?theme=asoul)](https://github.com/1iuyuhe/notes)
+
+<p align="center">
+    <a href="https://github.com/1iuyuhe/notes">
+        <img src="https://count.getloli.com/get/@1iuyuhe.github.notes?theme=asoul" alt="count" />
+    </a>
+</p>
 
 [![](./assets/footer.svg)](https://github.com/1iuyuhe/notes)
