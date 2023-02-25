@@ -6,7 +6,7 @@
 
 ## [数学](mathematics)
 
-- ……
+- [sympy](mathematics/sympy.md)
 - ……
 
 ## [数据结构](ds)
@@ -21,17 +21,18 @@
 
 ## [操作系统](os)
 
-- ……
+- [操作系统](os/操作系统.md)
 - ……
 
 ## [Linux](linux)
 
-- ……
+- [Zathura:Linux下的轻量级pdf阅读器](linux/Zathura:Linux下的轻量级pdf阅读器.md)
+- [tldr](linux/tldr.md)
 - ……
 
 ## [C++](cpp)
 
-- ……
+- [C++ Concurrency](cpp/'C++ Concurrency.md')
 - ……
 
 
